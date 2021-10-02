@@ -1,0 +1,18 @@
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.csprojAssemblyReference.cache
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.AssemblyInfoInputs.cache
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.AssemblyInfo.cs
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.deps.json
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.dll
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.pdb
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.dll
+C:\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.pdb
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.deps.json
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.dll
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.pdb
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.csprojAssemblyReference.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.AssemblyInfoInputs.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.AssemblyInfo.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.dll
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.pdb

@@ -1,0 +1,82 @@
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.exe
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.deps.json
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.runtimeconfig.json
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.runtimeconfig.dev.json
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.dll
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.pdb
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.Views.dll
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.Views.pdb
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.csprojAssemblyReference.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.AssemblyInfoInputs.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.AssemblyInfo.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.csproj.CoreCompileInputs.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorAssemblyInfo.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorAssemblyInfo.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.TagHelpers.input.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.TagHelpers.output.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorCoreGenerate.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorTargetAssemblyInfo.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorTargetAssemblyInfo.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.Views.pdb
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HomePetCenter.Frontend.StaticWebAssets.Manifest.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HomePetCenter.Frontend.StaticWebAssets.xml
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.dll
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.pdb
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.genruntimeconfig.cache
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.csproj.CopyComplete
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Crud\Create.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Crud\Delete.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Crud\Read.cshtml.g.cs
+D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Frontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Crud\Update.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.exe
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.deps.json
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.runtimeconfig.json
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.runtimeconfig.dev.json
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.dll
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.pdb
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.Views.dll
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\bin\Debug\netcoreapp3.1\HomePetCenter.Frontend.Views.pdb
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.csprojAssemblyReference.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.AssemblyInfoInputs.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.AssemblyInfo.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.csproj.CoreCompileInputs.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorAssemblyInfo.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorAssemblyInfo.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.TagHelpers.input.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.TagHelpers.output.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorCoreGenerate.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Crud\Create.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Crud\Delete.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Crud\Read.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Crud\Update.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorTargetAssemblyInfo.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.RazorTargetAssemblyInfo.cs
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.Views.pdb
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HomePetCenter.Frontend.StaticWebAssets.Manifest.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HomePetCenter.Frontend.StaticWebAssets.xml
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.dll
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.pdb
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.genruntimeconfig.cache
+D:\Universidad_Caldas\Ciclo3\Desarollo_Software\Proyecto\HomePetCenterFrontend\HomePetCenter.Frontend\obj\Debug\netcoreapp3.1\HomePetCenter.Frontend.csproj.CopyComplete
