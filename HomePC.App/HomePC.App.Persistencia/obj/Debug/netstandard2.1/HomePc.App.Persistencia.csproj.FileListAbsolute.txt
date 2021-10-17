@@ -22,3 +22,15 @@ D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCente
 D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.csproj.CopyComplete
 D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.dll
 D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.pdb
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\bin\Debug\netstandard2.1\HomePC.App.Persistencia.deps.json
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\bin\Debug\netstandard2.1\HomePC.App.Persistencia.dll
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\bin\Debug\netstandard2.1\HomePC.App.Persistencia.pdb
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\bin\Debug\netstandard2.1\HomePC.App.Dominio.dll
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\bin\Debug\netstandard2.1\HomePC.App.Dominio.pdb
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.csprojAssemblyReference.cache
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.AssemblyInfoInputs.cache
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.AssemblyInfo.cs
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.csproj.CopyComplete
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.dll
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Persistencia\obj\Debug\netstandard2.1\HomePC.App.Persistencia.pdb

@@ -16,3 +16,12 @@ D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCente
 D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.csproj.CoreCompileInputs.cache
 D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.dll
 D:\Universidad Caldas\Ciclo 3\Desarollo de Software\Sprint 1\Codigo\HomePetCenter\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.pdb
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.deps.json
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.dll
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\bin\Debug\netstandard2.0\HomePC.App.Dominio.pdb
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.csprojAssemblyReference.cache
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.AssemblyInfoInputs.cache
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.AssemblyInfo.cs
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.dll
+C:\Universidad de Caldas\Desarrollo de Software\Home-Pet-Care\HomePC.App\HomePC.App.Dominio\obj\Debug\netstandard2.0\HomePC.App.Dominio.pdb

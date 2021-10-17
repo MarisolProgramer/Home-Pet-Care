@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "feL1RMcx41Df9Na4AVmZshtPrwB90tQ/DXdG1BcvNzrpkJzZ4qFkaSwiFDrR9V1FZUM2V5uF/0K3T62II6ieBQ==",
+  "dgSpecHash": "7tI/Y2U3NVj265OutQx8ytUdD2PQowWVjlaXP0zYTLbOQ8nWkgpVoqlkx6YZYQqbgmQ+M7CAfqfVZPfM2/OTCg==",
   "success": true,
-  "projectFilePath": "D:\\Universidad Caldas\\Ciclo 3\\Desarollo de Software\\Sprint 1\\Codigo\\HomePetCenter\\HomePC.App\\HomePC.App.Dominio\\HomePC.App.Dominio.csproj",
+  "projectFilePath": "C:\\Universidad de Caldas\\Desarrollo de Software\\Home-Pet-Care\\HomePC.App\\HomePC.App.Dominio\\HomePC.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\johns\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\johns\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\kathy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kathy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
